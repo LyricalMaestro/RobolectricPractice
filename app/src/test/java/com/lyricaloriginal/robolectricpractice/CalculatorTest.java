@@ -10,8 +10,6 @@ import static org.junit.Assert.assertThat;
  * <p/>
  * Created by LyricalMaestro on 2016/02/04.
  */
-//@RunWith(RobolectricGradleTestRunner.class)
-//@Config(constants = BuildConfig.class, sdk = Build.VERSION_CODES.LOLLIPOP)
 public class CalculatorTest {
 
     @Test
