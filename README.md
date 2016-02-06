@@ -1,0 +1,3 @@
+# RobolectricPractice
+Robolectricを使ってテストコードを書いてみたサンプル。ちなみにこのアプリは「Permutation計算アプリ」
+
